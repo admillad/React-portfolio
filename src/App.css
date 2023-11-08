@@ -5,3 +5,10 @@
 body {
   background-color: #3a5a40;
 }
+.Navbar {
+  z-index: 2; /* Adjust the value as needed */
+}
+
+.Body {
+  z-index: 1;
+}
